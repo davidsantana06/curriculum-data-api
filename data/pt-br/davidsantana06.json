@@ -1,0 +1,129 @@
+{
+    "fullName": "David Santana",
+    "picture": "",
+    "presentation": "Sou estudante de Sistemas de Informação e trabalho com programação há mais de um ano. Possuo um perfil proativo, focado em trazer inovação e organização ao ambiente de trabalho. Domino linguagens como Python, JavaScript e Java, com experiência sólida em MySQL, HTML, CSS e Bootstrap. Além disso, tenho familiaridade com C, C++ e Haskell.",
+    "email": "davidsantana06@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/david-santana-067278288/",
+    "github": "https://github.com/davidsantana06",
+    "location": "Vitória da Conquista, Bahia",
+    "skills": [
+        {
+            "major": "Python",
+            "minors": [
+                "Flask",
+                "FastAPI",
+                "Pandas",
+                "Matplotlib",
+                "SQLAlchemy"
+            ]
+        },
+        {
+            "major": "JavaScript",
+            "minors": [
+                "Alpine.js",
+                "Node.js"
+            ]
+        },
+        {
+            "major": "Java",
+            "minors": [
+                "SceneBuilder"
+            ]
+        },
+        {
+            "major": "Haskell",
+            "minors": null
+        },
+        {
+            "major": "Front-end",
+            "minors": [
+                "HTML",
+                "CSS",
+                "Bootstrap"
+            ]
+        },
+        {
+            "major": "MySQL",
+            "minors": null
+        },
+        {
+            "major": "Git",
+            "minors": null
+        }
+    ],
+    "formations": [
+        {
+            "course": "Bacharelado em Sistemas de Informação",
+            "learningCenter": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+            "location": "Vitória da Conquista, Bahia",
+            "startDate": "05/2021",
+            "endDate": null
+        }
+    ],
+    "professionalExperiences": [
+        {
+            "position": "Monitor Acadêmico",
+            "company": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+            "responsibilities": "Minhas atividades envolviam instruir os discentes sobre conceitos importantes da linguagem de programação Java, tais como exceptions (Try/Catch), threads, generics, collections, I/O (Entrada/Saída) e JavaFX. Além disso, fui responsável por solucionar dúvidas específicas relacionadas à elaboração de atividades e trabalhos acadêmicos, bem como por auxiliar nas atividades avaliativas.",
+            "location": "Vitória da Conquista, Bahia",
+            "startDate": "09/2022",
+            "endDate": "12/2022"
+        },
+        {
+            "position": "Desenvolvedor Web",
+            "company": "Secretaria Municipal de Saúde de Vitória da Conquista",
+            "responsibilities": "Minhas tarefas envolviam o desenvolvimento completo de aplicações web, incluindo análise de requisitos, coleta de dados, documentação, prototipagem, desenvolvimento de código e implantação da aplicação. Na construção das aplicações, eu utilizava principalmente as linguagens de programação Python com o framework Flask e JavaScript. Especificamente para o front-end, fazia uso do HTML, CSS, Bootstrap e bibliotecas JavaScript, como o AJAX.",
+            "location": "Vitória da Conquista, Bahia",
+            "startDate": "02/2023",
+            "endDate": "02/2024"
+        }
+    ],
+    "personalProjects": [
+        {
+            "title": "BabyDiet",
+            "technologies": [
+                "Python",
+                "Flask",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "description": "Aplicação Flask voltada para o tratamento de planilhas Excel para gerar etiquetas com informações sobre horários de alimentação de bebês. O usuário envia a planilha, e o sistema avalia o padrão e preenchimento dos dados, fornecendo o feedback. Se estiver em conformidade, as etiquetas são exibidas e podem ser baixadas em formato de texto ou Excel. As submissões são registradas no histórico com identificador e horário.",
+            "github": "https://github.com/davidsantana06/baby-diet",
+            "website": null
+        },
+        {
+            "title": "PyBank",
+            "technologies": [
+                "Python",
+                "Pandas",
+                "Matplotlib"
+            ],
+            "description": "Sistema de análise de dados financeiros desenvolvido em Python, utilizando as bibliotecas Pandas e Matplotlib. O sistema permite aos usuários realizar operações comuns em um banco, como saques, depósitos e consultas. Além disso, ele é capaz de gerar tabelas no formato CSV e XLSX com informações sobre os dados financeiros. O sistema também oferece recursos para visualização de gráficos e estatísticas relacionadas a todas as operações e fluxos ocorridos na conta.",
+            "github": "https://github.com/davidsantana06/py-bank",
+            "website": null
+        },
+        {
+            "title": "TicTacToe",
+            "technologies": [
+                "Java",
+                "AWT",
+                "Swing"
+            ],
+            "description": "Jogo da velha desenvolvido em Java utilizando as bibliotecas Swing e AWT. O jogo oferece aos usuários a possibilidade de jogar contra outro jogador por meio de uma interface gráfica amigável, que inclui um placar e opções de configuração, como limpar o placar e resetar o jogo.",
+            "github": "https://github.com/davidsantana06/tic-tac-toe",
+            "website": null
+        },
+        {
+            "title": "TwinChat Server",
+            "technologies": [
+                "Python",
+                "ChatterBot",
+                "FastAPI"
+            ],
+            "description": "Servidor feito em FastAPI com inteligência artificial integrada, para responder perguntas do meio fitness, fornecendo informações sobre treinamento, dieta e dúvidas gerais.",
+            "github": "https://github.com/davidsantana06/twin-chat-server",
+            "website": null
+        }
+    ]
+}
