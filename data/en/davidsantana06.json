@@ -77,53 +77,5 @@
             "startDate": "02/2023",
             "endDate": "02/2024"
         }
-    ],
-    "personalProjects": [
-        {
-            "title": "BabyDiet",
-            "technologies": [
-                "Python",
-                "Flask",
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "description": "A Flask application focused on processing Excel spreadsheets to generate labels with information about baby feeding schedules. The user uploads the spreadsheet, and the system evaluates the pattern and data completeness, providing feedback. If compliant, the labels are displayed and can be downloaded in text or Excel format. Submissions are recorded in the history with an identifier and timestamp.",
-            "github": "https://github.com/davidsantana06/baby-diet",
-            "website": null
-        },
-        {
-            "title": "PyBank",
-            "technologies": [
-                "Python",
-                "Pandas",
-                "Matplotlib"
-            ],
-            "description": "A financial data analysis system developed in Python, using Pandas and Matplotlib libraries. The system allows users to perform common banking operations such as withdrawals, deposits, and inquiries. Additionally, it can generate tables in CSV and XLSX formats with information about financial data. The system also provides features for visualizing graphs and statistics related to all operations and flows in the account.",
-            "github": "https://github.com/davidsantana06/py-bank",
-            "website": null
-        },
-        {
-            "title": "TicTacToe",
-            "technologies": [
-                "Java",
-                "AWT",
-                "Swing"
-            ],
-            "description": "A Tic-Tac-Toe game developed in Java using Swing and AWT libraries. The game offers users the ability to play against another player through a user-friendly graphical interface, including a scoreboard and configuration options such as clearing the scoreboard and resetting the game.",
-            "github": "https://github.com/davidsantana06/tic-tac-toe",
-            "website": null
-        },
-        {
-            "title": "TwinChat Server",
-            "technologies": [
-                "Python",
-                "ChatterBot",
-                "FastAPI"
-            ],
-            "description": "A server built in FastAPI with integrated artificial intelligence to answer fitness-related questions, providing information about training, diet, and general inquiries.",
-            "github": "https://github.com/davidsantana06/twin-chat-server",
-            "website": null
-        }
     ]
 }

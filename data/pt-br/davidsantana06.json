@@ -77,53 +77,5 @@
             "startDate": "02/2023",
             "endDate": "02/2024"
         }
-    ],
-    "personalProjects": [
-        {
-            "title": "BabyDiet",
-            "technologies": [
-                "Python",
-                "Flask",
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "description": "Aplicação Flask voltada para o tratamento de planilhas Excel para gerar etiquetas com informações sobre horários de alimentação de bebês. O usuário envia a planilha, e o sistema avalia o padrão e preenchimento dos dados, fornecendo o feedback. Se estiver em conformidade, as etiquetas são exibidas e podem ser baixadas em formato de texto ou Excel. As submissões são registradas no histórico com identificador e horário.",
-            "github": "https://github.com/davidsantana06/baby-diet",
-            "website": null
-        },
-        {
-            "title": "PyBank",
-            "technologies": [
-                "Python",
-                "Pandas",
-                "Matplotlib"
-            ],
-            "description": "Sistema de análise de dados financeiros desenvolvido em Python, utilizando as bibliotecas Pandas e Matplotlib. O sistema permite aos usuários realizar operações comuns em um banco, como saques, depósitos e consultas. Além disso, ele é capaz de gerar tabelas no formato CSV e XLSX com informações sobre os dados financeiros. O sistema também oferece recursos para visualização de gráficos e estatísticas relacionadas a todas as operações e fluxos ocorridos na conta.",
-            "github": "https://github.com/davidsantana06/py-bank",
-            "website": null
-        },
-        {
-            "title": "TicTacToe",
-            "technologies": [
-                "Java",
-                "AWT",
-                "Swing"
-            ],
-            "description": "Jogo da velha desenvolvido em Java utilizando as bibliotecas Swing e AWT. O jogo oferece aos usuários a possibilidade de jogar contra outro jogador por meio de uma interface gráfica amigável, que inclui um placar e opções de configuração, como limpar o placar e resetar o jogo.",
-            "github": "https://github.com/davidsantana06/tic-tac-toe",
-            "website": null
-        },
-        {
-            "title": "TwinChat Server",
-            "technologies": [
-                "Python",
-                "ChatterBot",
-                "FastAPI"
-            ],
-            "description": "Servidor feito em FastAPI com inteligência artificial integrada, para responder perguntas do meio fitness, fornecendo informações sobre treinamento, dieta e dúvidas gerais.",
-            "github": "https://github.com/davidsantana06/twin-chat-server",
-            "website": null
-        }
     ]
 }
