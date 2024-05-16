@@ -1,6 +1,6 @@
-### Curriculum Data API
+### Resume Data API
 
-Pseudo API responsible for centralizing and delivering the curriculum data of [David Santana](https://github.com/davidsantana06) and [Giovana Silva](https://github.com/DiovanaS). The data is in `.json` format, including information such as:
+Pseudo API responsible for centralizing and delivering the resume data of [David Santana](https://github.com/davidsantana06) and [Giovana Silva](https://github.com/DiovanaS). The data is in `.json` format, including information such as:
 - Full name;
 - Picture;
 - Presentation;
