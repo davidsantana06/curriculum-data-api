@@ -5,44 +5,17 @@
     "email": "giovanasds1923@gmail.com",
     "linkedin": "https://www.linkedin.com/in/giovana-silva-94a739214/",
     "github": "https://github.com/DiovanaS",
-    "location": "Vitória da Conquista, Bahia",
-    "skills": [
-        {
-            "major": "Front-end",
-            "minors": [
-                "HTML",
-                "CSS",
-                "Bootstrap"
-            ]
-        },
-        {
-            "major": "Python",
-            "minors": null
-        },
-        {
-            "major": "MySQL",
-            "minors": null
-        },
-        {
-            "major": "Canva",
-            "minors": null
-        }
-    ],
-    "formations": [
-        {
-            "course": "Bacharelado em Sistemas de Informação",
-            "learningCenter": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
-            "location": "Vitória da Conquista, Bahia",
-            "startDate": "05/2021",
-            "endDate": null
-        }
-    ],
+    "formation": {
+        "course": "Bacharelado em Sistemas de Informação",
+        "learningCenter": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+        "startDate": "05/2021",
+        "endDate": "Atualmente"
+    },
     "professionalExperiences": [
         {
             "position": "Sales Development Representative",
             "company": "MySalesHub",
             "responsibilities": "Profissional de vendas on-line, trabalhei com empresas como WiseHome, DecorColors, desenvolvendo o papel de prospecção de leads.",
-            "location": "Vitória da Conquista, Bahia",
             "startDate": "08/2021",
             "endDate": "05/2022"
         },
@@ -50,7 +23,6 @@
             "position": "Voluntária de Alfabetização",
             "company": "Prefeitura Municipal de Vitória da Conquista",
             "responsibilities": "Trabalho voluntário para auxiliar crianças de 6 a 8 anos no processo de alfabetização. Desenvolvido na EMMJPP.",
-            "location": "Vitória da Conquista, Bahia",
             "startDate": "05/2022",
             "endDate": "07/2023"
         },
@@ -58,9 +30,8 @@
             "position": "Jovem Aprendiz Administrativo (Setor de TI)",
             "company": "Grupo DASS",
             "responsibilities": "Ofereço suporte nas rotinas administrativas, incluindo atendimento ao cliente, acompanhamento de relatórios, elaboração de planilhas e controle de arquivos, além de diagnóstico, reparo e manutenção de hardware e software, proporcionando suporte abrangente aos usuários.",
-            "location": "Vitória da Conquista, Bahia",
             "startDate": "08/2023",
-            "endDate": null
+            "endDate": "Atualmente"
         }
     ]
 }

@@ -5,67 +5,17 @@
     "email": "davidsantana06@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/david-santana-067278288/",
     "github": "https://github.com/davidsantana06",
-    "location": "Vitória da Conquista, Bahia",
-    "skills": [
-        {
-            "major": "Python",
-            "minors": [
-                "Flask",
-                "FastAPI",
-                "Pandas",
-                "Matplotlib",
-                "SQLAlchemy"
-            ]
-        },
-        {
-            "major": "JavaScript",
-            "minors": [
-                "Alpine.js",
-                "Node.js"
-            ]
-        },
-        {
-            "major": "Java",
-            "minors": [
-                "SceneBuilder"
-            ]
-        },
-        {
-            "major": "Haskell",
-            "minors": null
-        },
-        {
-            "major": "Front-end",
-            "minors": [
-                "HTML",
-                "CSS",
-                "Bootstrap"
-            ]
-        },
-        {
-            "major": "MySQL",
-            "minors": null
-        },
-        {
-            "major": "Git",
-            "minors": null
-        }
-    ],
-    "formations": [
-        {
-            "course": "Bacharelado em Sistemas de Informação",
-            "learningCenter": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
-            "location": "Vitória da Conquista, Bahia",
-            "startDate": "05/2021",
-            "endDate": null
-        }
-    ],
+    "formation": {
+        "course": "Bacharelado em Sistemas de Informação",
+        "learningCenter": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+        "startDate": "05/2021",
+        "endDate": "Atualmente"
+    },
     "professionalExperiences": [
         {
             "position": "Monitor Acadêmico",
             "company": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
             "responsibilities": "Minhas atividades envolviam instruir os discentes sobre conceitos importantes da linguagem de programação Java, tais como exceptions (Try/Catch), threads, generics, collections, I/O (Entrada/Saída) e JavaFX. Além disso, fui responsável por solucionar dúvidas específicas relacionadas à elaboração de atividades e trabalhos acadêmicos, bem como por auxiliar nas atividades avaliativas.",
-            "location": "Vitória da Conquista, Bahia",
             "startDate": "09/2022",
             "endDate": "12/2022"
         },
@@ -73,7 +23,6 @@
             "position": "Desenvolvedor Web",
             "company": "Secretaria Municipal de Saúde de Vitória da Conquista",
             "responsibilities": "Minhas tarefas envolviam o desenvolvimento completo de aplicações web, incluindo análise de requisitos, coleta de dados, documentação, prototipagem, desenvolvimento de código e implantação da aplicação. Na construção das aplicações, eu utilizava principalmente as linguagens de programação Python com o framework Flask e JavaScript. Especificamente para o front-end, fazia uso do HTML, CSS, Bootstrap e bibliotecas JavaScript, como o AJAX.",
-            "location": "Vitória da Conquista, Bahia",
             "startDate": "02/2023",
             "endDate": "02/2024"
         }
