@@ -1,10 +1,10 @@
 {
-    "name": "David Santana",
     "picture": "https://avatars.githubusercontent.com/u/110633725",
-    "presentation": "I am a Information Systems student and have been working with programming for over a year. I have a proactive profile, focused on bringing innovation and organization to the work environment. I am proficient in languages such as Python, JavaScript, and Java, with solid experience in MySQL, HTML, CSS, and Bootstrap. Additionally, I am familiar with C, C++, and Haskell.",
-    "email": "davidsantana06@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/david-santana-067278288/",
     "github": "https://github.com/davidsantana06",
+    "email": "davidsantana06@hotmail.com",
+    "greeting": "Hi, i'm David Santana",
+    "presentation": "I am a Information Systems student and have been working with programming for over a year. I have a proactive profile, focused on bringing innovation and organization to the work environment. I am proficient in languages such as Python, JavaScript, and Java, with solid experience in MySQL, HTML, CSS, and Bootstrap. Additionally, I am familiar with C, C++, and Haskell.",
     "formation": {
         "course": "Bachelor's degree in Information Systems",
         "learningCenter": "Federal Institute of Education, Science, and Technology of Bahia",
