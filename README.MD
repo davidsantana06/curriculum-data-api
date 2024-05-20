@@ -1,12 +1,12 @@
 ### Resume Data API
 
 Pseudo API responsible for centralizing and delivering the resume data of [David Santana](https://github.com/davidsantana06) and [Giovana Silva](https://github.com/DiovanaS). The data is in `.json` format, including information such as:
-- Name;
 - Picture;
-- Presentation;
-- Email;
 - LinkedIn;
 - GitHub;
+- Email;
+- Greeting;
+- Presentation;
 - Formation;
 - Professional experiences.
 
