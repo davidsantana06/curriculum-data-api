@@ -3,8 +3,8 @@
     "linkedin": "https://www.linkedin.com/in/david-santana-067278288/",
     "github": "https://github.com/davidsantana06",
     "email": "davidsantana06@hotmail.com",
-    "greeting": "Hi, i'm David Santana",
-    "presentation": "I am a Information Systems student and have been working with programming for over a year. I have a proactive profile, focused on bringing innovation and organization to the work environment. I am proficient in languages such as Python, JavaScript, and Java, with solid experience in MySQL, HTML, CSS, and Bootstrap. Additionally, I am familiar with C, C++, and Haskell.",
+    "greeting": "Hi, i'm David Santana!",
+    "presentation": "I am a technology enthusiast with a proactive mindset, focused on bringing innovation and order to the workplace. I have advanced skills in Python, JavaScript, and Java, as well as familiarity with MySQL, HTML, CSS, and Bootstrap.",
     "formation": {
         "course": "Bachelor's degree in Information Systems",
         "learningCenter": "Federal Institute of Education, Science, and Technology of Bahia",
@@ -15,16 +15,23 @@
         {
             "position": "Academic Monitor",
             "company": "Federal Institute of Education, Science, and Technology of Bahia",
-            "responsibilities": "My activities involved instructing students about important concepts in the Java programming language, such as Exceptions (Try/Catch), Threads, Generics, Collections, I/O (Input/Output), and JavaFX. Additionally, I was responsible for addressing specific questions regarding the creation of assignments and academic projects, as well as assisting with assessment tasks.",
+            "responsibilities": "Academic activity in which I instructed students from the Information Systems course on important concepts of the Java programming language, such as exceptions, threads, generics, collections, I/O, and JavaFX. Additionally, I was responsible for addressing specific doubts related to the development of activities, academic papers, and exams.",
             "startDate": "09/2022",
             "endDate": "12/2022"
         },
         {
             "position": "Web Developer",
             "company": "Municipal Health Department of Vitória da Conquista",
-            "responsibilities": "My tasks involved the complete development of web applications, including requirements analysis, data collection, documentation, prototyping, code development, and application deployment. In building applications, I primarily used programming languages such as Python with the Flask framework and JavaScript. Specifically for the front-end, I utilized HTML, CSS, Bootstrap, and JavaScript libraries like AJAX.",
+            "responsibilities": "Internship focused on web applications development, encompassing requirements analysis, data collection, documentation, prototyping, development, and deployment. I primarily used the Python programming language with the Flask framework, alongside JavaScript, HTML, CSS, and Bootstrap.",
             "startDate": "02/2023",
             "endDate": "02/2024"
+        },
+        {
+            "position": "Data Engineer",
+            "company": "Compass UOL",
+            "responsibilities": "Training path focused on cloud computing, covering Python and SQL languages, cloud computing components, analytical and processing services, as well as techniques and tools for data visualization and modeling.",
+            "startDate": "04/2024",
+            "endDate": "Currently"
         }
     ]
 }
