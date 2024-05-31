@@ -3,8 +3,8 @@
     "linkedin": "https://www.linkedin.com/in/giovana-silva-94a739214/",
     "github": "https://github.com/DiovanaS",
     "email": "giovanasds1923@gmail.com",
-    "greeting": "Olá, me chamo Giovana Silva",
-    "presentation": "Estou à procura de novos desafios profissionais buscando uma efetivação no mercado, visando o desenvolvimento de um todo o trabalho e claro gerando resultados. Conseguir concretizar a forma de possibilitar este crescimento qualitativo e quantitativo para a empresa.",
+    "greeting": "Oiie, me chamo Giovana Silva",
+    "presentation": "Estou em busca de novos desafios profissionais que me permitam efetivar minha carreira no mercado. Meu objetivo é contribuir para o desenvolvimento integral do trabalho e, naturalmente, gerar resultados significativos. Pretendo impulsionar o crescimento qualitativo e quantitativo da empresa.",
     "formation": {
         "course": "Bacharelado em Sistemas de Informação",
         "learningCenter": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
@@ -13,25 +13,33 @@
     },
     "professionalExperiences": [
         {
-            "position": "Sales Development Representative",
+            "position": "SDR",
             "company": "MySalesHub",
-            "responsibilities": "Profissional de vendas on-line, trabalhei com empresas como WiseHome, DecorColors, desenvolvendo o papel de prospecção de leads.",
+            "responsibilities": "Trabalhei como vendedora online para as empresas WiseHome e DecorColors, cuidando da prospecção de clientes. Minhas atividades incluíam organizar planilhas, qualificar leads, identificar e contatar clientes em potencial, gerar oportunidades de negócio e apoiar a equipe de vendas. Também ajudei a criar estratégias de marketing e promover a empresa.",
             "startDate": "08/2021",
             "endDate": "05/2022"
         },
         {
             "position": "Voluntária de Alfabetização",
             "company": "Prefeitura Municipal de Vitória da Conquista",
-            "responsibilities": "Trabalho voluntário para auxiliar crianças de 6 a 8 anos no processo de alfabetização. Desenvolvido na EMMJPP.",
+            "responsibilities": "Desempenhei trabalho voluntário ajudando crianças de 6 a 8 anos a aprender a ler e escrever na EMMJPP. Também auxiliava na criação de materiais didáticos e recursos visuais para as atividades, garantindo que tudo estivesse de acordo com os objetivos educativos e as necessidades das crianças.",
             "startDate": "05/2022",
             "endDate": "07/2023"
         },
         {
             "position": "Jovem Aprendiz Administrativo (Setor de TI)",
             "company": "Grupo DASS",
-            "responsibilities": "Ofereço suporte nas rotinas administrativas, incluindo atendimento ao cliente, acompanhamento de relatórios, elaboração de planilhas e controle de arquivos, além de diagnóstico, reparo e manutenção de hardware e software, proporcionando suporte abrangente aos usuários.",
+            "responsibilities": "Ofereci suporte nas rotinas administrativas, incluindo atendimento ao cliente, acompanhamento de relatórios, criação de planilhas e organização de arquivos. Também participava da organização de equipamentos de informática e da manutenção de hardware, como notebooks, impressoras, ramais, catracas e relógios de ponto, além de apoiar a equipe nos atendimentos.",
             "startDate": "08/2023",
+            "endDate": "05/2024"
+        },
+        {
+            "position": "Assistente de Marketing e SDR",
+            "company": "Beytrix",
+            "responsibilities": "Ofereço suporte em tarefas operacionais, implemento campanhas e ações publicitárias, entro em contato com leads e realizo atividades voltadas para prospecção.",
+            "startDate": "05/2024",
             "endDate": "Atualmente"
+
         }
     ]
 }
