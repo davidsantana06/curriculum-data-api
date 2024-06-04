@@ -13,18 +13,12 @@
     },
     "professionalExperiences": [
         {
-            "position": "SDR",
-            "company": "MySalesHub",
-            "responsibilities": "Trabalhei como vendedora online para as empresas WiseHome e DecorColors, cuidando da prospecção de clientes. Minhas atividades incluíam organizar planilhas, qualificar leads, identificar e contatar clientes em potencial, gerar oportunidades de negócio e apoiar a equipe de vendas. Também ajudei a criar estratégias de marketing e promover a empresa.",
-            "startDate": "08/2021",
-            "endDate": "05/2022"
-        },
-        {
-            "position": "Voluntária de Alfabetização",
-            "company": "Prefeitura Municipal de Vitória da Conquista",
-            "responsibilities": "Desempenhei trabalho voluntário ajudando crianças de 6 a 8 anos a aprender a ler e escrever na EMMJPP. Também auxiliava na criação de materiais didáticos e recursos visuais para as atividades, garantindo que tudo estivesse de acordo com os objetivos educativos e as necessidades das crianças.",
-            "startDate": "05/2022",
-            "endDate": "07/2023"
+            "position": "Assistente de Marketing e SDR",
+            "company": "Beytrix",
+            "responsibilities": "Ofereço suporte em tarefas operacionais, implemento campanhas e ações publicitárias, entro em contato com leads e realizo atividades voltadas para prospecção.",
+            "startDate": "05/2024",
+            "endDate": "Atualmente"
+
         },
         {
             "position": "Jovem Aprendiz Administrativo (Setor de TI)",
@@ -34,12 +28,18 @@
             "endDate": "05/2024"
         },
         {
-            "position": "Assistente de Marketing e SDR",
-            "company": "Beytrix",
-            "responsibilities": "Ofereço suporte em tarefas operacionais, implemento campanhas e ações publicitárias, entro em contato com leads e realizo atividades voltadas para prospecção.",
-            "startDate": "05/2024",
-            "endDate": "Atualmente"
-
+            "position": "Voluntária de Alfabetização",
+            "company": "Prefeitura Municipal de Vitória da Conquista",
+            "responsibilities": "Desempenhei trabalho voluntário ajudando crianças de 6 a 8 anos a aprender a ler e escrever na EMMJPP. Também auxiliava na criação de materiais didáticos e recursos visuais para as atividades, garantindo que tudo estivesse de acordo com os objetivos educativos e as necessidades das crianças.",
+            "startDate": "05/2022",
+            "endDate": "07/2023"
+        },
+        {
+            "position": "SDR",
+            "company": "MySalesHub",
+            "responsibilities": "Trabalhei como vendedora online para as empresas WiseHome e DecorColors, cuidando da prospecção de clientes. Minhas atividades incluíam organizar planilhas, qualificar leads, identificar e contatar clientes em potencial, gerar oportunidades de negócio e apoiar a equipe de vendas. Também ajudei a criar estratégias de marketing e promover a empresa.",
+            "startDate": "08/2021",
+            "endDate": "05/2022"
         }
     ]
 }

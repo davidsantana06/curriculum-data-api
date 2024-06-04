@@ -13,11 +13,11 @@
     },
     "professionalExperiences": [
         {
-            "position": "Monitor Acadêmico",
-            "company": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
-            "responsibilities": "Atividade acadêmica em que instruí os alunos do curso de Sistemas de Informação sobre conceitos importantes da linguagem de programação Java, como exceptions, threads, generics, collections, I/O e JavaFX. Além disso, fui responsável por solucionar dúvidas específicas relacionadas à elaboração de atividades, trabalhos acadêmicos e provas.",
-            "startDate": "09/2022",
-            "endDate": "12/2022"
+            "position": "Engenheiro de Dados",
+            "company": "Compass UOL",
+            "responsibilities": "Trilha de capacitação voltada para a nuvem, abordando as linguagens Python e SQL, componentes de cloud computing, serviços analíticos e de processamento, além de técnicas e ferramentas para visualização e modelagem de dados.",
+            "startDate": "04/2024",
+            "endDate": "Atualmente"
         },
         {
             "position": "Desenvolvedor Web",
@@ -27,11 +27,11 @@
             "endDate": "02/2024"
         },
         {
-            "position": "Engenheiro de Dados",
-            "company": "Compass UOL",
-            "responsibilities": "Trilha de capacitação voltada para a nuvem, abordando as linguagens Python e SQL, componentes de cloud computing, serviços analíticos e de processamento, além de técnicas e ferramentas para visualização e modelagem de dados.",
-            "startDate": "04/2024",
-            "endDate": "Atualmente"
+            "position": "Monitor Acadêmico",
+            "company": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+            "responsibilities": "Atividade acadêmica em que instruí os alunos do curso de Sistemas de Informação sobre conceitos importantes da linguagem de programação Java, como exceptions, threads, generics, collections, I/O e JavaFX. Além disso, fui responsável por solucionar dúvidas específicas relacionadas à elaboração de atividades, trabalhos acadêmicos e provas.",
+            "startDate": "09/2022",
+            "endDate": "12/2022"
         }
     ]
 }

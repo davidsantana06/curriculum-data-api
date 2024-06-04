@@ -13,11 +13,11 @@
     },
     "professionalExperiences": [
         {
-            "position": "Academic Monitor",
-            "company": "Federal Institute of Education, Science, and Technology of Bahia",
-            "responsibilities": "Academic activity in which I instructed students from the Information Systems course on important concepts of the Java programming language, such as exceptions, threads, generics, collections, I/O, and JavaFX. Additionally, I was responsible for addressing specific doubts related to the development of activities, academic papers, and exams.",
-            "startDate": "09/2022",
-            "endDate": "12/2022"
+            "position": "Data Engineer",
+            "company": "Compass UOL",
+            "responsibilities": "Training path focused on cloud computing, covering Python and SQL languages, cloud computing components, analytical and processing services, as well as techniques and tools for data visualization and modeling.",
+            "startDate": "04/2024",
+            "endDate": "Currently"
         },
         {
             "position": "Web Developer",
@@ -27,11 +27,11 @@
             "endDate": "02/2024"
         },
         {
-            "position": "Data Engineer",
-            "company": "Compass UOL",
-            "responsibilities": "Training path focused on cloud computing, covering Python and SQL languages, cloud computing components, analytical and processing services, as well as techniques and tools for data visualization and modeling.",
-            "startDate": "04/2024",
-            "endDate": "Currently"
+            "position": "Academic Monitor",
+            "company": "Federal Institute of Education, Science, and Technology of Bahia",
+            "responsibilities": "Academic activity in which I instructed students from the Information Systems course on important concepts of the Java programming language, such as exceptions, threads, generics, collections, I/O, and JavaFX. Additionally, I was responsible for addressing specific doubts related to the development of activities, academic papers, and exams.",
+            "startDate": "09/2022",
+            "endDate": "12/2022"
         }
     ]
 }
